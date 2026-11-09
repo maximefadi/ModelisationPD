@@ -1,4 +1,4 @@
-# Modélisation de la PD Corporate — Credit Risk Modelling
+# Modélisation Python de la PD Corporate — Credit Risk Modelling
 
 ## 1. Présentation du projet
 
